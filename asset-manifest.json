@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": " https://jayaramanbio.github.io/proj-file/static/css/main.25be3f78.css",
+    "main.js": " https://jayaramanbio.github.io/proj-file/static/js/main.426adae2.js",
+    "static/js/787.789d5390.chunk.js": " https://jayaramanbio.github.io/proj-file/static/js/787.789d5390.chunk.js",
+    "static/media/logo.svg": " https://jayaramanbio.github.io/proj-file/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": " https://jayaramanbio.github.io/proj-file/index.html",
+    "main.25be3f78.css.map": " https://jayaramanbio.github.io/proj-file/static/css/main.25be3f78.css.map",
+    "main.426adae2.js.map": " https://jayaramanbio.github.io/proj-file/static/js/main.426adae2.js.map",
+    "787.789d5390.chunk.js.map": " https://jayaramanbio.github.io/proj-file/static/js/787.789d5390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25be3f78.css",
+    "static/js/main.426adae2.js"
+  ]
+}
